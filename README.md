@@ -8,3 +8,20 @@ This project is done in collaboration with
 
 To Run this model:
 Python main.py
+
+
+## Paper Link
+https://www.spiedigitallibrary.org/conference-proceedings-of-spie/11318/113180Q/A-comparative-study-of-2D-image-segmentation-algorithms-for-traumatic/10.1117/12.2566332.short
+
+## Citation
+If you find our code useful, please consider citing our work using the bibtex:
+
+@inproceedings{jadon2020comparative,
+  title={A comparative study of 2D image segmentation algorithms for traumatic brain lesions using CT data from the ProTECTIII multicenter clinical trial},
+  author={Jadon, Shruti and Leary, Owen P and Pan, Ian and Harder, Tyler J and Wright, David W and Merck, Lisa H and Merck, Derek L},
+  booktitle={Medical Imaging 2020: Imaging Informatics for Healthcare, Research, and Applications},
+  volume={11318},
+  pages={113180Q},
+  year={2020},
+  organization={International Society for Optics and Photonics}
+}
