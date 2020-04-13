@@ -15,7 +15,7 @@ https://www.spiedigitallibrary.org/conference-proceedings-of-spie/11318/113180Q/
 
 ## Citation
 If you find our code useful, please consider citing our work using the bibtex:
-
+```
 @inproceedings{jadon2020comparative,
   title={A comparative study of 2D image segmentation algorithms for traumatic brain lesions using CT data from the ProTECTIII multicenter clinical trial},
   author={Jadon, Shruti and Leary, Owen P and Pan, Ian and Harder, Tyler J and Wright, David W and Merck, Lisa H and Merck, Derek L},
@@ -25,3 +25,4 @@ If you find our code useful, please consider citing our work using the bibtex:
   year={2020},
   organization={International Society for Optics and Photonics}
 }
+```
