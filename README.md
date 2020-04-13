@@ -7,7 +7,9 @@ This project is done in collaboration with
 
 
 To Run this model:
+```
 Python main.py
+```
 
 
 ## Paper Link
